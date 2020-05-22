@@ -15,10 +15,12 @@ CDR 20120509 [http://bit.ly/TelecomDataset3]
 
 
 
-Load the dataset into phton 
+Load the dataset into phyton 
 
 Clean the data
 
 Merge the two data sets
 
 descibe and order them
+Recommendation
+impove their infranstructure on places where MTN services is used.
