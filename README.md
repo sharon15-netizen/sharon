@@ -17,7 +17,7 @@ CDR 20120509 [http://bit.ly/TelecomDataset3]
 
 Load the dataset into phyton 
 
-Clean the data
+#Clean the data
 
 Merge the two data sets
 
