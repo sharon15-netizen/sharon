@@ -3,7 +3,7 @@ ip week 3
 
 Objective
 find how  MTN  Cote d'Ivoire should go about upgrading technology infrastructure within the given  cities.
-
+## DATA 
 
 Dataset Provided
 cells_geo_description.xlsx [Link]
